@@ -1,10 +1,10 @@
 {
-  "name": "geoffrey-test",
-  "title": "Geoffrey Test",
-  "displayName": "Geoffrey Test",
+  "name": "Nautica Ahoy",
+  "title": "Nautica Ahoy",
+  "displayName": "Nautica Ahoy",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great GREEN? theme to start your own themes.",
+  "description": "A post-modern teal kind of theme. Notes of Michael Graves.",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
